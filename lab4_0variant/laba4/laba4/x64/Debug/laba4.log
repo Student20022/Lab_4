@@ -1,0 +1,4 @@
+﻿  laba4.cpp
+C:\Users\pu5sy\source\repos\laba4\laba4\laba4.cpp(158,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\pu5sy\source\repos\laba4\laba4\laba4.cpp(169,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  laba4.vcxproj -> C:\Users\pu5sy\source\repos\laba4\x64\Debug\laba4.exe
